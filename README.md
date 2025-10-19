@@ -21,6 +21,7 @@
 
 1.  **创建文件夹**：在你的电脑上创建一个**纯英文路径**的文件夹，例如：`C:\AutoLogin`
 2.  **下载驱动**：
+      [帮你下载了，就是那个msedgedriver.exe]
       * 打开 Edge 浏览器，在地址栏输入 `edge://version` 查看你的版本号。
       * 访问 [https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
       * 下载与你 Edge 版本**完全匹配**的 `win64` 驱动。
